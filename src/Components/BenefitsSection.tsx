@@ -6,7 +6,7 @@ const BenefitsSection: React.FC = () => {
   return (
     <section className="py-16 bg-white">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center text-[#0D2C5C] mb-12">Benefits of working with Citizens Disability</h2>
+        <h2 className="text-3xl font-bold text-center text-[#0D2C5C] mb-12">Benefits of working with SSDI Guidance</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-white rounded-lg shadow-lg p-6 text-center">
@@ -15,7 +15,7 @@ const BenefitsSection: React.FC = () => {
             </div>
             <h3 className="text-xl font-bold text-[#0D2C5C] mb-3">Expert Guidance on the SSDI Process</h3>
             <p className="text-gray-600">
-              Citizens Disability simplifies SSDI claims and appeals with expert representation to increase your chances of success.
+              SSDI Guidance simplifies SSDI claims and appeals with expert representation to increase your chances of success.
             </p>
           </div>
           
@@ -35,7 +35,7 @@ const BenefitsSection: React.FC = () => {
             </div>
             <h3 className="text-xl font-bold text-[#0D2C5C] mb-3">Higher Success Rates</h3>
             <p className="text-gray-600">
-              Citizens Disability uses their expertise to resolve issues and improve your chances of approval.
+              SSDI Guidance uses their expertise to resolve issues and improve your chances of approval.
             </p>
           </div>
         </div>

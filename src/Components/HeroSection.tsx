@@ -35,7 +35,7 @@ const HeroSection: React.FC = () => {
     <section className="py-8 bg-gray-50">
       <div className="container mx-auto px-4">
         <h1 className="text-center text-[#0D2C5C] text-3xl mb-6 font-bold">
-          Citizens Disability is a non-government affiliated organization, dedicated to helping you get compensation for disabilities
+      SSDI Guidance is a non-government affiliated organization, dedicated to helping you get compensation for disabilities
         </h1>
         
         <div className="bg-white shadow-lg rounded-lg p-6 md:p-8 flex flex-col md:flex-row">
@@ -209,13 +209,13 @@ const HeroSection: React.FC = () => {
                 </label>
                 <p className="text-xs mt-4 text-gray-600">
                   By clicking "Help me with my SSDI Claim" below I am providing my ESIGN signature and express written consent agreement to permit
-                  Citizens Disability, LLC to contact me at the number provided above for marketing purposes regarding Citizens Disability services,
+                  SSDI Guidance, LLC to contact me at the number provided above for marketing purposes regarding SSDI Guidance services,
                   including a disability claim, benefits optimization, Medicare, and/or pharmacy services, and customer care messages, such as
                   information and reminders regarding your disability claim. I understand that these calls and/or SMS/MMS messages include those using
                   automated technology, AI generative voice, and prerecorded and/or artificial voice messages. I confirm that the phone number above is
-                  accurate, and I am the regular user of that phone. I also agree to Citizens Disability's SMS Terms and Conditions and Privacy Policy. For
+                  accurate, and I am the regular user of that phone. I also agree to SSDI Guidance's SMS Terms and Conditions and Privacy Policy. For
                   SMS messages campaigns, text "STOP" to stop and "HELP" for help. Message frequency may vary. Msg & data rates may apply. I
-                  acknowledge that my consent is not required to obtain any good or service, and to contact Citizens Disability without providing consent I
+                  acknowledge that my consent is not required to obtain any good or service, and to contact SSDI Guidance without providing consent I
                   can call 833-242-2963.
                 </p>
               </div>

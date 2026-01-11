@@ -30,28 +30,7 @@ const PrivacyPolicy: React.FC = () => {
             When you register on our Site, you hereby agree and acknowledge that your personal information will be placed into the Company database and that such personal information shall be shared with third parties for marketing purposes.
           </p>
 
-          <h2 className="text-2xl font-bold text-[#0D2C5C] mt-8 mb-4">Privacy Policy Quick Links</h2>
-          <ul className="list-disc pl-6 mb-4">
-            <li>Personal Information that We Collect</li>
-            <li>Use and Sharing of Personal Information</li>
-            <li>Non-Personally Identifiable Information Collection and Use</li>
-            <li>Cookies</li>
-            <li>Behavioral Tracking and Web Session Recording Technologies</li>
-            <li>Chat Bot Technology</li>
-            <li>Cross Device Tracking</li>
-            <li>Aggregate Data</li>
-            <li>Other Websites</li>
-            <li>Security of Your Personal Information</li>
-            <li>Text Messaging Privacy Policy</li>
-            <li>Children’s Privacy</li>
-            <li>Removal, Amending and/or Updating Your Information</li>
-            <li>Opt-Out; Unsubscribe</li>
-            <li>Transfer of Personal Information Internationally</li>
-            <li>Changes to this Privacy Policy</li>
-            <li>Contact Us</li>
-            <li>Filing a Complaint with the Federal Trade Commission</li>
-            <li>Your State Privacy Rights</li>
-          </ul>
+          
 
           <h2 className="text-2xl font-bold text-[#0D2C5C] mt-8 mb-4">Personal Information that We Collect</h2>
           <p>
