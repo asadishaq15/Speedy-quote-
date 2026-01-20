@@ -4,7 +4,7 @@ import QuoteForm from './QuoteForm';
 
 const HeroSection: React.FC = () => {
   return (
-    <section className="relative overflow-hidden bg-gray-100 py-12 md:py-16">
+    <section id="quote-form" className="relative overflow-hidden bg-gray-100 py-12 md:py-16">
 
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center">

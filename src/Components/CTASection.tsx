@@ -43,7 +43,15 @@ const CTASection: React.FC = () => {
         </div>
         
         <div className="text-center mt-12">
-          <button className="py-3 px-8 bg-gradient-to-r from-[#ED2228] to-[#F26624] text-white font-bold rounded-md hover:opacity-90 transition duration-200 inline-flex items-center">
+          <button 
+            onClick={() => {
+              const quoteFormSection = document.getElementById('quote-form');
+              if (quoteFormSection) {
+                quoteFormSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              }
+            }}
+            className="py-3 px-8 bg-gradient-to-r from-[#ED2228] to-[#F26624] text-white font-bold rounded-md hover:opacity-90 transition duration-200 inline-flex items-center"
+          >
             Get a Quote 
             <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
