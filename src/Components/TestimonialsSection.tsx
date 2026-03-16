@@ -44,7 +44,6 @@ const TestimonialsSection = () => {
 
   const current = testimonials[activeIndex];
 
-  // Animation variants
   const variants = {
     enter: (direction: number) => ({
       x: direction > 0 ? 300 : -300,
